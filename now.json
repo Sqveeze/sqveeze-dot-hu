@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "create-react-app",
-  "regions": ["bru1"],
+  "regions": ["all"],
   "builds": [{
     "src": "package.json", "use": "@now/static-build"
   }],

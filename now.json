@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "create-react-app",
+  "regions": ["sfo", "bru"],
   "builds": [{
     "src": "package.json", "use": "@now/static-build"
   }],

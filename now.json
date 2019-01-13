@@ -1,4 +1,9 @@
 {
+  "version": 2,
+  "name": "create-react-app",
+  "builds": [{
+    "src": "package.json", "use": "@now/static-build"
+  }],
   "alias": ["my-zeit-website.com"],
   "github": {
     "autoAlias": false

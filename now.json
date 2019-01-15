@@ -5,7 +5,7 @@
   "builds": [{
     "src": "package.json", "use": "@now/static-build"
   }],
-  "alias": ["my-zeit-website.com"],
+  "alias": ["sqveeze.hu", "sqveeze.design"],
   "github": {
     "autoAlias": false
   }

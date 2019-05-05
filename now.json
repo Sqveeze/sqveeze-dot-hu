@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "name": "create-react-app",
-  "regions": ["all"],
+  "name": "sqveeze-dot-hu",
+  "regions": ["arn1","bru1","cdg1","dub1","lhr1"],
   "builds": [{
     "src": "package.json", "use": "@now/static-build"
   }],

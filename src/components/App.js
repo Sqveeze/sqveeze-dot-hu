@@ -10,12 +10,10 @@ class App extends Component {
     return (
       <div className="App">
         <div className="section-wrapper">
-
-            <About />
-            <Contact />
-            <Jobs />
-            <Works />
-
+          <About />
+          <Contact />
+          <Jobs />
+          <Works />
         </div>
       </div>
     );

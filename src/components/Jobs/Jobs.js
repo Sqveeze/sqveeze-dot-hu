@@ -7,14 +7,14 @@ class Jobs extends Component {
         <h1>Eddigi munkáim</h1>
       
         <p>
-          Minden eddigi munkámat megtalálod <a href="https://gitlab.com/Sqveeze">GitLab</a>-on.
+          Minden eddigi munkámat megtalálod <a href="https://github.com/Sqveeze/">GitHub</a>-on.
           Hamarosan feltöltésre kerülnek az eddigi projektjeim(!)
         </p>
     
         <ul className="big-list">
-          <li><a href="https://gitlab.com/Sqveeze/my-website" target="_blank" rel="noopener noreferrer">@</a> <a href="https://sqveeze.hu" target="_blank" rel="noopener noreferrer"> Saját weboldalam</a> <span className="comment">HTML5, CSS3</span></li>
-          <li><a href="http://drszolnokiallatkorhazak.hu" target="_blank" rel="noopener noreferrer"> Dr. Szolnoki János - Állatkórházak</a> <span className="comment">HTML, CSS(W3CSS), Javascript, PHP</span></li>
-          <li><a href="http://www.kolonicspinceszet.hu" target="_blank" rel="noopener noreferrer"> Kolonics Pincészet</a> <span className="comment">HTML, CSS(MDBootstrap), Javascript, PHP</span></li>
+          <li><a href="https://github.com/Sqveeze/sqveeze-dot-hu" target="_blank" rel="noopener noreferrer">@</a> <a href="https://sqveeze.hu" target="_blank" rel="noopener noreferrer"> Saját weboldalam</a> <span className="comment"> React </span></li>
+          <li><a href="http://drszolnokiallatkorhazak.hu" target="_blank" rel="noopener noreferrer"> Dr. Szolnoki János - Állatkórházak</a> <span className="comment"> HTML, CSS(W3CSS), Javascript, PHP </span></li>
+          <li><a href="http://www.kolonicspinceszet.hu" target="_blank" rel="noopener noreferrer"> Kolonics Pincészet</a> <span className="comment"> HTML, CSS(MDBootstrap), Javascript, PHP </span></li>
         </ul>
       </section>
     );

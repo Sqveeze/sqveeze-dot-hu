@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
 /* Reset browser styles */
 
 * {
@@ -83,6 +85,7 @@ p {
   margin-top: 16px;
   margin-bottom: 16px;
   max-width: 560px;
+  text-align: justify;
 }
 
 /* "Comment"-style texts */

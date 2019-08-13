@@ -1,12 +1,15 @@
 {
   "version": 2,
   "name": "sqveeze-dot-hu",
-  "regions": ["arn1","bru1","cdg1","dub1","lhr1"],
+  "alias": ["sqveeze.hu", "sqveeze.design"],
+  "regions":[
+    "arn1",
+    "bru1",
+    "cdg1",
+    "dub1",
+    "lhr1"
+  ],
   "builds": [{
     "src": "package.json", "use": "@now/static-build"
   }],
-  "alias": ["sqveeze.hu", "sqveeze.design"],
-  "github": {
-    "autoAlias": false
-  }
 }

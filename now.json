@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "sqveeze-dot-hu",
-  "alias": ["sqveeze.hu", "sqveeze.design"],
+  "alias": ["sqveeze.hu"],
   "regions":[
     "arn1",
     "bru1",
